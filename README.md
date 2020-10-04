@@ -1,5 +1,4 @@
 # CreditCardFraudDetection
-It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 **Reference**
 Machine Learning Group - ULB: Credit Card Fraud Detection, Kaggle Datasets
 Andrea Dal Pozzolo, Olivier Caelen, Reid A. Johnson and Gianluca Bontempi. Calibrating Probability with Undersampling for Unbalanced Classification. In Symposium on Computational Intelligence and Data Mining (CIDM), IEEE, 2015
